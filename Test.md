@@ -11,7 +11,7 @@ Pedro -> Alice : hello
 @enduml
 ```
 -->
-![](Diagram1.svg)
+![](Test.svg)
 
 Esto es fascinante
 
