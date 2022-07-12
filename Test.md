@@ -6,12 +6,12 @@ Aquí veremos un diagrama:
 
 <!--
 ```plantuml
-@startuml
+@startuml Test
 Pedro -> Alice : hello
 @enduml
 ```
 -->
-![](Test.svg)
+![](Test.png)
 
 Esto es fascinante
 
