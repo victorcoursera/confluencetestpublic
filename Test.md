@@ -4,11 +4,14 @@ Vamos a ver qué tal va **esto**.
 
 Aquí veremos un diagrama:
 
+<!--
 ```plantuml
 @startuml
 Pedro -> Alice : hello
 @enduml
 ```
+-->
+![](Diagram1.svg)
 
 Esto es fascinante
 
