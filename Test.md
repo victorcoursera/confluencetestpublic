@@ -6,12 +6,12 @@ Aquí veremos un diagrama:
 
 <!--
 ```plantuml
-@startuml Test
+@startuml test2
 Pedro -> Alice : hello
 @enduml
 ```
 -->
-![](Test.png)
+![](./test2.png)
 
 Esto es fascinante
 
